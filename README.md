@@ -16,7 +16,7 @@ car repair, flow laying, math learning, web technology
 Discord: papack#7115
 
 - 😄 Pronouns: ...
-/Pápack/ papack#7115
+/Pápack/ 
 
 - ⚡ Fun fact: ...
 I use arch btw
