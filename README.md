@@ -1,23 +1,23 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-Bringing web technologies into packaging machines
+bringing web technologies into packaging machines
 
 - 🌱 I’m currently learning ...
-html, css, javascript, mongodb, next.js and feathers.js
+everything new i can learn about web techniques
 
 - 👯 I’m looking to collaborate on ...
-Never stop learning. Learning programming stuff togehter or do Projekts for Fun. 
+never stop learning. Learning programming stuff togehter or do projects for fun. 
 
 - 🤔 I’m looking for help with ...
 car repair, flow laying, math learning, web technology
 
 - 📫 How to reach me: ...
-Discord: papack#7115
+discord: papack#7115
 
 - 😄 Pronouns: ...
 /Pápack/ 
 
 - ⚡ Fun fact: ...
-I use arch btw
+i use arch btw
 
