@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**papack/papack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
+Bringing web technologies into packaging machines
+
 - 🌱 I’m currently learning ...
+html, css, javascript, mongodb, next.js and feathers.js
+
 - 👯 I’m looking to collaborate on ...
+Never stop learning. Learning programming stuff togehter or do Projekts for Fun. 
+
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+car repair, flow laying, math learning, web technology
+
 - 📫 How to reach me: ...
+Discord: papack#7115
+
 - 😄 Pronouns: ...
+/Pápack/ papack#7115
+
 - ⚡ Fun fact: ...
--->
+I use arch btw
+
