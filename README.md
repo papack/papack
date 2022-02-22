@@ -10,7 +10,7 @@ everything new i can learn about web techniques
 never stop learning. Learning programming stuff togehter or do projects for fun. 
 
 - 🤔 I’m looking for help with ...
-car repair, flow laying, math learning, web technology
+learn kubernetes
 
 - 📫 How to reach me: ...
 discord: papack#7115
